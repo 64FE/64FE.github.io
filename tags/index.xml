@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - 0x06</title>
+        <link>https://64fe.github.io/tags/</link>
+        <description>Tags - 标签 - 0x06</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://64fe.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Frp</title>
+    <link>https://64fe.github.io/tags/frp/</link>
+    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://64fe.github.io/tags/frp/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
