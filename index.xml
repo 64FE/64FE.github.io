@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>0x06</title>
+        <title>0x64fe</title>
         <link>https://64fe.github.io/</link>
-        <description>0x06</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</lastBuildDate>
+        <description>0x64fe</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 19 Jan 2022 20:31:53 &#43;0000</lastBuildDate>
             <atom:link href="https://64fe.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Kafka Shell管理命令记录</title>
+    <link>https://64fe.github.io/posts/2022/01/kafka-shell%E7%AE%A1%E7%90%86%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/</link>
+    <pubDate>Wed, 19 Jan 2022 20:31:53 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://64fe.github.io/posts/2022/01/kafka-shell%E7%AE%A1%E7%90%86%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/</guid>
+    <description><![CDATA[主题操作 创建分区 kafka-topics.sh --zookeeper &lt;zookeeper connect&gt; --create --topic &lt;string&gt; --replication-factor &lt;integer&gt; --partitions &lt;integer&gt; 使用 &ndash;if-not-exists 参数，这样即 使主题已经存在，也不会抛出重复创建主题的错误 增加分区 #示例：my-topic 主题的分]]></description>
+</item><item>
     <title>Frp内网穿透</title>
     <link>https://64fe.github.io/posts/2022/01/frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</link>
-    <pubDate>Fri, 28 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <pubDate>Tue, 18 Jan 2022 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
     <guid>https://64fe.github.io/posts/2022/01/frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</guid>
     <description><![CDATA[要求:拥有一台具有公网ip的服务器. 步骤： 1、下载frp安装包 进入github frp下载后解压。 2、配置服务器端 修改frps.ini文件，配]]></description>
-</item><item>
-    <title>Kafka Shell</title>
-    <link>https://64fe.github.io/posts/2022/01/kafka-shell/</link>
-    <pubDate>Wed, 19 Jan 2022 20:31:53 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://64fe.github.io/posts/2022/01/kafka-shell/</guid>
-    <description><![CDATA[主题操作 创建分区 kafka-topics.sh --zookeeper &lt;zookeeper connect&gt; --create --topic &lt;string&gt; --replication-factor &lt;integer&gt; --partitions &lt;integer&gt; 使用 &ndash;if-not-exists 参数，这样即 使主题已经存在，也不会抛出重复创建主题的错误 增加分区 #示例：my-topic 主题的分]]></description>
 </item></channel>
 </rss>
